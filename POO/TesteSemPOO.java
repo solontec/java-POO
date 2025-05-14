@@ -27,7 +27,7 @@ public class TesteSemPOO {
         System.out.println(somaY);
 
         if(somaX > somaY){
-            System.out.println("O mairo é o X");
+            System.out.println("O maior é o X");
         } else{
             System.out.println("Maior é Y");
         }
